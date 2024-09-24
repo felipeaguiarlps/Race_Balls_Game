@@ -1,9 +1,9 @@
-# package_name
+# bouncing_square
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package boucing_square is used to:
+	- Create a map randomly
+	- Create a square race
 
 ## Installation
 
@@ -22,7 +22,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Felipe FAL
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

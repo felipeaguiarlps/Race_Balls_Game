@@ -10,13 +10,14 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install random_map_simulation
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from random_map_simulation import map
+
 file1_name.my_function()
 ```
 
